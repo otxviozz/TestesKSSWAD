@@ -1,0 +1,1 @@
+Esta é uma atividade desenvolvida com o objetivo de entender os testes de Kolmogorov-Smirnov, Shapiro-Wilk e Anderson-Darling.
